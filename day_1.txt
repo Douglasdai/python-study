@@ -1,9 +1,0 @@
-# 等待用户输入
-# input("\n\nplease input and exit :")
-
-# import sys; x = 'runoob'; sys.stdout.write(x+'\n')
-# import sys
-# print('命令行参数')
-# for i in sys.argv:
-#     print(i)
-# print('\n python path is ',sys.path)
